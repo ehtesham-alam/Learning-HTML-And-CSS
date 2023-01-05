@@ -1,0 +1,173 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	width: 100%;
+}
+.container{
+	width: 75%
+	margin:0 auto;
+}
+.top{
+	height: 80px;
+	background: #3B5998;
+}
+.logo{
+	float: left;
+	color: white;
+	font-size: 22px;
+	margin-left: 150px;
+	text-align: left;
+	line-height: 80px;
+}
+.form{
+	float: right;
+	margin-right: 170px;
+	line-height: 70px;
+}
+.text-field{
+	width: 170px;
+	float: left;
+	padding: 0px 4px;
+	line-height: 0px;
+	margin: 0px 0px 0px 0px;
+
+}
+label{
+	color: white;
+	font: 12px Hevetica,Arial,Sans-serif;
+	line-height: 35px;
+
+
+}
+.text-field>input{
+	width: 150px;
+	height: 21px;
+	border: 1px solid;
+	margin: 0px 3px 8px 0px;
+	padding:0px 0px; 
+	margin-top: -6px;
+}
+.forget>a{
+	color: #9CB4D8;
+	font-size: 12px;
+	cursor: pointer;
+    text-decoration: none;
+}
+.top input[type="submit"]{
+	background: #4267B2;
+	margin: 33px 0px;
+	width: 50px;
+	height: 21px;
+	padding: 2px 6px;
+	border: 1px solid black;
+	color: white;
+
+}
+.rightbody{
+	clear: both;
+	width: 42%;
+	float: right;
+}
+.leftbody h1{
+	font-size: 20px;
+	margin: 15px 20px 0 150px;
+	color: #0E385F;
+
+
+}
+.leftbody{
+	width: 40%;
+	float: left;
+}
+.main-heading{
+	font-size: 36px;
+	font-weight: bold;
+}
+.sub{
+	font-size: 19px;
+	margin: 5px 5px;
+}
+.rightbody >input.half{
+	width: 30%;
+	height: 35px;
+	border-radius: 5px;
+	padding: 0 10px;
+	border: 1px  solid #BDC7D8;
+	font-size: 17px;
+	margin: 5px 5px;
+	box-sizing: border-box;
+}
+.rightbody >input.full{
+	width: 63%;
+	height: 35px;
+	border-radius: 5px;
+	padding: 0 5px;
+	border: 1px  solid #BDC7D8;
+	font-size: 17px;
+	margin: 5px 5px;
+	box-sizing: border-box;
+}
+.rightbody > select.day{
+	width: 58px;
+	height: 30px;
+	padding: 5px;
+	margin: 5px;
+}
+.rightbody > select.month{
+	width: 71px;
+	height: 30px;
+	padding: 5px;
+}
+.rightbody > select.year{
+	width: 63px;
+	height: 30px;
+	padding: 5px;
+}
+.gender{
+	font-size: 19px;
+	margin: 5px 5px;
+	margin: 0px 25px 0px 0px;
+	padding: 3px 5px 5px 0px;
+
+}
+.paragraph{
+	font-size: 13px;
+	width: 316px;
+	height: 42px;
+	color: #7777777;
+}
+.rightbody input[type="submit"]{
+	width: 194px;
+	height: 39px;
+	font-size: 19px;
+	border-radius: 5px;
+	color: white;
+	background: #69A74E;
+	margin: 20px 0px;
+	padding: 7px 20px;
+	border: 1px solid black;
+}
+.birthday{
+	font-size: 19px;
+	margin: 5px 5px;
+	color: #90949C;
+}
+.genderColor{
+	font-size: 19px;
+	margin: 5px 5px;
+	color: #90949C;
+}
+.paragraph>a{
+	color: #385898;
+	cursor: pointer;
+	text-decoration: underline;
+    text-decoration: none;
+
+}
+
+.image{
+	width: 537px;
+	height:195px;
+}
